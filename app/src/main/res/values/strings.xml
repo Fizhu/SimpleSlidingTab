@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Sliding Tab</string>
+    <string name="alpha">FRAGMENT\nALPHA</string>
+    <string name="beta">FRAGMENT\nBETA</string>
+    <string name="charlie">FRAGMENT\nCHARLIE</string>
+    <string name="delta">FRAGMENT\nDELTA</string>
+</resources>
